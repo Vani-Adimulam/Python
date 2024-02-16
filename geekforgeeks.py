@@ -1272,10 +1272,15 @@
 # print(name)
 # print(age)
 
-name ='sahasra'
-age = 2
+# name ='sahasra'
+# age = 2
+# print(name)
+# print(age)
+
+name = 'swetha'
+relation = 'friend'
 print(name)
-print(age)
+print(relation)
 
 
 
