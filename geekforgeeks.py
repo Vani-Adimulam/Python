@@ -1267,8 +1267,13 @@
 # name = "nanna"
 # print(name)
 
-name = 'madhu'
-age = 23
+# name = 'madhu'
+# age = 23
+# print(name)
+# print(age)
+
+name ='sahasra'
+age = 2
 print(name)
 print(age)
 
