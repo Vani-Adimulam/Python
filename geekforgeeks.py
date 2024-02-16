@@ -1260,12 +1260,9 @@
 
 
 
-k = "vani"
 
-for i in k:
-    if i =="v":
-        print("yes")
-
+name = 'vani'
+print(name)
 
 
 
