@@ -1261,9 +1261,11 @@
 # name = 'vani'
 # print(name)
 
-name = 'amma'
-print(name)
+# name = 'amma'
+# print(name)
 
+name = "nanna"
+print(name)
 
 
 
