@@ -1272,10 +1272,13 @@
 # print(name)
 # print(age)
 
-name ='sahasra'
-age = 2
-print(name)
-print(age)
+# name ='sahasra'
+# age = 2
+# print(name)
+# print(age)
+
+life = "mylife"
+print(life)
 
 
 
